@@ -1,0 +1,18 @@
+@model AM.ApplicationCore.Domain.Flight
+
+<tr>
+    <td colspan="8">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Détails supplémentaires</h5>
+                <p class="card-text">
+                    <strong>Nombre de passagers :</strong> @Model.Passengers?.Count
+                    <br />
+                    <strong>Type d'avion :</strong> @Model.plane?.PlaneType
+                    <br />
+                    <strong>Capacité de l'avion :</strong> @Model.plane?.Capacity
+                </p>
+            </div>
+        </div>
+    </td>
+</tr> 

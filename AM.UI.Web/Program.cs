@@ -1,7 +1,28 @@
+using AM.ApplicationCore.Interfaces;
+using AM.ApplicationCore.Services;
+using AM.Infrastructure;
+using AM.InfraStructure;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+//instance des patrons
+
+builder.Services.AddDbContext<DbContext, AMContext>(); //duréé de vie des instances
+
+builder.Services.AddScoped<IUnitOfWork, UnitOfWork>();
+
+builder.Services.AddScoped<Type>(t => typeof(GenericRepository<>));
+
+//instance des services
+
+builder.Services.AddScoped<IServicePlane, ServicePlane>();
+builder.Services.AddScoped<IFlightMethods, FlightMethods>();
+
+
+
 
 var app = builder.Build();
 

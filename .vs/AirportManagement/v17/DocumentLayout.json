@@ -1,78 +1,206 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\BAZINFO\\Esprit\\DotNet\\AirportManagement\\",
+  "WorkspaceRootPath": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A4C18314-CA42-4AAA-A422-2483E00A02A4}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\bazinfo\\esprit\\dotnet\\airportmanagement\\am.applicationcore\\interfaces\\iserviceplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4C18314-CA42-4AAA-A422-2483E00A02A4}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\interfaces\\iserviceplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9EF91556-46F1-44DB-BA28-49DE558E1920}|AM.UI.Web\\AM.UI.Web.csproj|c:\\users\\ghayt\\downloads\\airportmanagement\\am.ui.web\\controllers\\flightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF91556-46F1-44DB-BA28-49DE558E1920}|AM.UI.Web\\AM.UI.Web.csproj|solutionrelative:am.ui.web\\controllers\\flightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4C18314-CA42-4AAA-A422-2483E00A02A4}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\bazinfo\\esprit\\dotnet\\airportmanagement\\am.applicationcore\\interfaces\\iflightmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4C18314-CA42-4AAA-A422-2483E00A02A4}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\interfaces\\iflightmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9EF91556-46F1-44DB-BA28-49DE558E1920}|AM.UI.Web\\AM.UI.Web.csproj|c:\\users\\ghayt\\downloads\\airportmanagement\\am.ui.web\\views\\flight\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EF91556-46F1-44DB-BA28-49DE558E1920}|AM.UI.Web\\AM.UI.Web.csproj|solutionrelative:am.ui.web\\views\\flight\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4C18314-CA42-4AAA-A422-2483E00A02A4}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\bazinfo\\esprit\\dotnet\\airportmanagement\\am.applicationcore\\services\\flightmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4C18314-CA42-4AAA-A422-2483E00A02A4}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\services\\flightmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4C18314-CA42-4AAA-A422-2483E00A02A4}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\bazinfo\\esprit\\dotnet\\airportmanagement\\am.applicationcore\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4C18314-CA42-4AAA-A422-2483E00A02A4}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4C18314-CA42-4AAA-A422-2483E00A02A4}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\bazinfo\\esprit\\dotnet\\airportmanagement\\am.applicationcore\\domain\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4C18314-CA42-4AAA-A422-2483E00A02A4}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4C18314-CA42-4AAA-A422-2483E00A02A4}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\bazinfo\\esprit\\dotnet\\airportmanagement\\am.applicationcore\\domain\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4C18314-CA42-4AAA-A422-2483E00A02A4}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4C18314-CA42-4AAA-A422-2483E00A02A4}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\bazinfo\\esprit\\dotnet\\airportmanagement\\am.applicationcore\\services\\serviceplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4C18314-CA42-4AAA-A422-2483E00A02A4}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\services\\serviceplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4C18314-CA42-4AAA-A422-2483E00A02A4}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\bazinfo\\esprit\\dotnet\\airportmanagement\\am.applicationcore\\services\\passengerextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4C18314-CA42-4AAA-A422-2483E00A02A4}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\services\\passengerextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A4C18314-CA42-4AAA-A422-2483E00A02A4}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\bazinfo\\esprit\\dotnet\\airportmanagement\\am.applicationcore\\services\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4C18314-CA42-4AAA-A422-2483E00A02A4}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\services\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9EF91556-46F1-44DB-BA28-49DE558E1920}|AM.UI.Web\\AM.UI.Web.csproj|c:\\users\\bazinfo\\esprit\\dotnet\\airportmanagement\\am.ui.web\\controllers\\planecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EF91556-46F1-44DB-BA28-49DE558E1920}|AM.UI.Web\\AM.UI.Web.csproj|solutionrelative:am.ui.web\\controllers\\planecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9EF91556-46F1-44DB-BA28-49DE558E1920}|AM.UI.Web\\AM.UI.Web.csproj|c:\\users\\bazinfo\\esprit\\dotnet\\airportmanagement\\am.ui.web\\views\\plane\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{9EF91556-46F1-44DB-BA28-49DE558E1920}|AM.UI.Web\\AM.UI.Web.csproj|c:\\users\\ghayt\\downloads\\airportmanagement\\am.ui.web\\views\\plane\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9EF91556-46F1-44DB-BA28-49DE558E1920}|AM.UI.Web\\AM.UI.Web.csproj|solutionrelative:am.ui.web\\views\\plane\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9EF91556-46F1-44DB-BA28-49DE558E1920}|AM.UI.Web\\AM.UI.Web.csproj|c:\\users\\bazinfo\\esprit\\dotnet\\airportmanagement\\am.ui.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9EF91556-46F1-44DB-BA28-49DE558E1920}|AM.UI.Web\\AM.UI.Web.csproj|solutionrelative:am.ui.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9EF91556-46F1-44DB-BA28-49DE558E1920}|AM.UI.Web\\AM.UI.Web.csproj|c:\\users\\ghayt\\downloads\\airportmanagement\\am.ui.web\\views\\plane\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EF91556-46F1-44DB-BA28-49DE558E1920}|AM.UI.Web\\AM.UI.Web.csproj|solutionrelative:am.ui.web\\views\\plane\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44B98BE4-AD27-4257-997E-4B012375F127}|AM.UI.Console\\AM.UI.Console.csproj|c:\\users\\bazinfo\\esprit\\dotnet\\airportmanagement\\am.ui.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44B98BE4-AD27-4257-997E-4B012375F127}|AM.UI.Console\\AM.UI.Console.csproj|solutionrelative:am.ui.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A4C18314-CA42-4AAA-A422-2483E00A02A4}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\ghayt\\downloads\\airportmanagement\\am.applicationcore\\services\\flightmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C18314-CA42-4AAA-A422-2483E00A02A4}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\services\\flightmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9EF91556-46F1-44DB-BA28-49DE558E1920}|AM.UI.Web\\AM.UI.Web.csproj|c:\\users\\bazinfo\\esprit\\dotnet\\airportmanagement\\am.ui.web\\am.ui.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9EF91556-46F1-44DB-BA28-49DE558E1920}|AM.UI.Web\\AM.UI.Web.csproj|solutionrelative:am.ui.web\\am.ui.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{9EF91556-46F1-44DB-BA28-49DE558E1920}|AM.UI.Web\\AM.UI.Web.csproj|c:\\users\\ghayt\\downloads\\airportmanagement\\am.ui.web\\views\\plane\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EF91556-46F1-44DB-BA28-49DE558E1920}|AM.UI.Web\\AM.UI.Web.csproj|solutionrelative:am.ui.web\\views\\plane\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E88FBE6-62B0-4607-A88D-D0DAA69F6369}|AM.InfraStructure\\AM.InfraStructure.csproj|c:\\users\\bazinfo\\esprit\\dotnet\\airportmanagement\\am.infrastructure\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1E88FBE6-62B0-4607-A88D-D0DAA69F6369}|AM.InfraStructure\\AM.InfraStructure.csproj|solutionrelative:am.infrastructure\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9EF91556-46F1-44DB-BA28-49DE558E1920}|AM.UI.Web\\AM.UI.Web.csproj|c:\\users\\ghayt\\downloads\\airportmanagement\\am.ui.web\\views\\plane\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EF91556-46F1-44DB-BA28-49DE558E1920}|AM.UI.Web\\AM.UI.Web.csproj|solutionrelative:am.ui.web\\views\\plane\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9EF91556-46F1-44DB-BA28-49DE558E1920}|AM.UI.Web\\AM.UI.Web.csproj|c:\\users\\bazinfo\\esprit\\dotnet\\airportmanagement\\am.ui.web\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9EF91556-46F1-44DB-BA28-49DE558E1920}|AM.UI.Web\\AM.UI.Web.csproj|c:\\users\\ghayt\\downloads\\airportmanagement\\am.ui.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EF91556-46F1-44DB-BA28-49DE558E1920}|AM.UI.Web\\AM.UI.Web.csproj|solutionrelative:am.ui.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF91556-46F1-44DB-BA28-49DE558E1920}|AM.UI.Web\\AM.UI.Web.csproj|c:\\users\\ghayt\\downloads\\airportmanagement\\am.ui.web\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9EF91556-46F1-44DB-BA28-49DE558E1920}|AM.UI.Web\\AM.UI.Web.csproj|solutionrelative:am.ui.web\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A4C18314-CA42-4AAA-A422-2483E00A02A4}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\bazinfo\\esprit\\dotnet\\airportmanagement\\am.applicationcore\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A4C18314-CA42-4AAA-A422-2483E00A02A4}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9EF91556-46F1-44DB-BA28-49DE558E1920}|AM.UI.Web\\AM.UI.Web.csproj|c:\\users\\ghayt\\downloads\\airportmanagement\\am.ui.web\\views\\flight\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EF91556-46F1-44DB-BA28-49DE558E1920}|AM.UI.Web\\AM.UI.Web.csproj|solutionrelative:am.ui.web\\views\\flight\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1E88FBE6-62B0-4607-A88D-D0DAA69F6369}|AM.InfraStructure\\AM.InfraStructure.csproj|c:\\users\\bazinfo\\esprit\\dotnet\\airportmanagement\\am.infrastructure\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9EF91556-46F1-44DB-BA28-49DE558E1920}|AM.UI.Web\\AM.UI.Web.csproj|c:\\users\\ghayt\\downloads\\airportmanagement\\am.ui.web\\views\\flight\\_flightdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EF91556-46F1-44DB-BA28-49DE558E1920}|AM.UI.Web\\AM.UI.Web.csproj|solutionrelative:am.ui.web\\views\\flight\\_flightdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF91556-46F1-44DB-BA28-49DE558E1920}|AM.UI.Web\\AM.UI.Web.csproj|c:\\users\\ghayt\\downloads\\airportmanagement\\am.ui.web\\views\\plane\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EF91556-46F1-44DB-BA28-49DE558E1920}|AM.UI.Web\\AM.UI.Web.csproj|solutionrelative:am.ui.web\\views\\plane\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C18314-CA42-4AAA-A422-2483E00A02A4}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\ghayt\\downloads\\airportmanagement\\am.applicationcore\\domain\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C18314-CA42-4AAA-A422-2483E00A02A4}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\ticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C18314-CA42-4AAA-A422-2483E00A02A4}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\ghayt\\downloads\\airportmanagement\\am.applicationcore\\domain\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C18314-CA42-4AAA-A422-2483E00A02A4}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF91556-46F1-44DB-BA28-49DE558E1920}|AM.UI.Web\\AM.UI.Web.csproj|c:\\users\\ghayt\\downloads\\airportmanagement\\am.ui.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EF91556-46F1-44DB-BA28-49DE558E1920}|AM.UI.Web\\AM.UI.Web.csproj|solutionrelative:am.ui.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF91556-46F1-44DB-BA28-49DE558E1920}|AM.UI.Web\\AM.UI.Web.csproj|c:\\users\\ghayt\\downloads\\airportmanagement\\am.ui.web\\controllers\\planecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF91556-46F1-44DB-BA28-49DE558E1920}|AM.UI.Web\\AM.UI.Web.csproj|solutionrelative:am.ui.web\\controllers\\planecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88FBE6-62B0-4607-A88D-D0DAA69F6369}|AM.InfraStructure\\AM.InfraStructure.csproj|c:\\users\\ghayt\\downloads\\airportmanagement\\am.infrastructure\\configuration\\planeconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E88FBE6-62B0-4607-A88D-D0DAA69F6369}|AM.InfraStructure\\AM.InfraStructure.csproj|solutionrelative:am.infrastructure\\configuration\\planeconfigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C18314-CA42-4AAA-A422-2483E00A02A4}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\ghayt\\downloads\\airportmanagement\\am.applicationcore\\interfaces\\iflightmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C18314-CA42-4AAA-A422-2483E00A02A4}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\interfaces\\iflightmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C18314-CA42-4AAA-A422-2483E00A02A4}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\ghayt\\downloads\\airportmanagement\\am.applicationcore\\domain\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C18314-CA42-4AAA-A422-2483E00A02A4}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF91556-46F1-44DB-BA28-49DE558E1920}|AM.UI.Web\\AM.UI.Web.csproj|c:\\users\\ghayt\\downloads\\airportmanagement\\am.ui.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF91556-46F1-44DB-BA28-49DE558E1920}|AM.UI.Web\\AM.UI.Web.csproj|solutionrelative:am.ui.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF91556-46F1-44DB-BA28-49DE558E1920}|AM.UI.Web\\AM.UI.Web.csproj|c:\\users\\ghayt\\downloads\\airportmanagement\\am.ui.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EF91556-46F1-44DB-BA28-49DE558E1920}|AM.UI.Web\\AM.UI.Web.csproj|solutionrelative:am.ui.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF91556-46F1-44DB-BA28-49DE558E1920}|AM.UI.Web\\AM.UI.Web.csproj|c:\\users\\ghayt\\downloads\\airportmanagement\\am.ui.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF91556-46F1-44DB-BA28-49DE558E1920}|AM.UI.Web\\AM.UI.Web.csproj|solutionrelative:am.ui.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF91556-46F1-44DB-BA28-49DE558E1920}|AM.UI.Web\\AM.UI.Web.csproj|c:\\users\\ghayt\\downloads\\airportmanagement\\am.ui.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EF91556-46F1-44DB-BA28-49DE558E1920}|AM.UI.Web\\AM.UI.Web.csproj|solutionrelative:am.ui.web\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF91556-46F1-44DB-BA28-49DE558E1920}|AM.UI.Web\\AM.UI.Web.csproj|c:\\users\\ghayt\\downloads\\airportmanagement\\am.ui.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9EF91556-46F1-44DB-BA28-49DE558E1920}|AM.UI.Web\\AM.UI.Web.csproj|solutionrelative:am.ui.web\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88FBE6-62B0-4607-A88D-D0DAA69F6369}|AM.InfraStructure\\AM.InfraStructure.csproj|c:\\users\\ghayt\\downloads\\airportmanagement\\am.infrastructure\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E88FBE6-62B0-4607-A88D-D0DAA69F6369}|AM.InfraStructure\\AM.InfraStructure.csproj|solutionrelative:am.infrastructure\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88FBE6-62B0-4607-A88D-D0DAA69F6369}|AM.InfraStructure\\AM.InfraStructure.csproj|c:\\users\\ghayt\\downloads\\airportmanagement\\am.infrastructure\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E88FBE6-62B0-4607-A88D-D0DAA69F6369}|AM.InfraStructure\\AM.InfraStructure.csproj|solutionrelative:am.infrastructure\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF91556-46F1-44DB-BA28-49DE558E1920}|AM.UI.Web\\AM.UI.Web.csproj|c:\\users\\ghayt\\downloads\\airportmanagement\\am.ui.web\\am.ui.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9EF91556-46F1-44DB-BA28-49DE558E1920}|AM.UI.Web\\AM.UI.Web.csproj|solutionrelative:am.ui.web\\am.ui.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88FBE6-62B0-4607-A88D-D0DAA69F6369}|AM.InfraStructure\\AM.InfraStructure.csproj|c:\\users\\ghayt\\downloads\\airportmanagement\\am.infrastructure\\configuration\\flightconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E88FBE6-62B0-4607-A88D-D0DAA69F6369}|AM.InfraStructure\\AM.InfraStructure.csproj|solutionrelative:am.infrastructure\\configuration\\flightconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88FBE6-62B0-4607-A88D-D0DAA69F6369}|AM.InfraStructure\\AM.InfraStructure.csproj|c:\\users\\ghayt\\downloads\\airportmanagement\\am.infrastructure\\amcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E88FBE6-62B0-4607-A88D-D0DAA69F6369}|AM.InfraStructure\\AM.InfraStructure.csproj|solutionrelative:am.infrastructure\\amcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C18314-CA42-4AAA-A422-2483E00A02A4}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\ghayt\\downloads\\airportmanagement\\am.applicationcore\\domain\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C18314-CA42-4AAA-A422-2483E00A02A4}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C18314-CA42-4AAA-A422-2483E00A02A4}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\ghayt\\downloads\\airportmanagement\\am.applicationcore\\domain\\reservationticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C18314-CA42-4AAA-A422-2483E00A02A4}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\reservationticket.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C18314-CA42-4AAA-A422-2483E00A02A4}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\ghayt\\downloads\\airportmanagement\\am.applicationcore\\domain\\planetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C18314-CA42-4AAA-A422-2483E00A02A4}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\planetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88FBE6-62B0-4607-A88D-D0DAA69F6369}|AM.InfraStructure\\AM.InfraStructure.csproj|c:\\users\\ghayt\\downloads\\airportmanagement\\am.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E88FBE6-62B0-4607-A88D-D0DAA69F6369}|AM.InfraStructure\\AM.InfraStructure.csproj|solutionrelative:am.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C18314-CA42-4AAA-A422-2483E00A02A4}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\ghayt\\downloads\\airportmanagement\\am.applicationcore\\domain\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C18314-CA42-4AAA-A422-2483E00A02A4}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C18314-CA42-4AAA-A422-2483E00A02A4}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\ghayt\\downloads\\airportmanagement\\am.applicationcore\\domain\\traveller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C18314-CA42-4AAA-A422-2483E00A02A4}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\traveller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C18314-CA42-4AAA-A422-2483E00A02A4}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\ghayt\\downloads\\airportmanagement\\am.applicationcore\\domain\\fullname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C18314-CA42-4AAA-A422-2483E00A02A4}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\fullname.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C18314-CA42-4AAA-A422-2483E00A02A4}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\ghayt\\downloads\\airportmanagement\\am.applicationcore\\domain\\testdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C18314-CA42-4AAA-A422-2483E00A02A4}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\domain\\testdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C18314-CA42-4AAA-A422-2483E00A02A4}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\ghayt\\downloads\\airportmanagement\\am.applicationcore\\services\\passengerextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C18314-CA42-4AAA-A422-2483E00A02A4}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\services\\passengerextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88FBE6-62B0-4607-A88D-D0DAA69F6369}|AM.InfraStructure\\AM.InfraStructure.csproj|c:\\users\\ghayt\\downloads\\airportmanagement\\am.infrastructure\\migrations\\amcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E88FBE6-62B0-4607-A88D-D0DAA69F6369}|AM.InfraStructure\\AM.InfraStructure.csproj|solutionrelative:am.infrastructure\\migrations\\amcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88FBE6-62B0-4607-A88D-D0DAA69F6369}|AM.InfraStructure\\AM.InfraStructure.csproj|c:\\users\\ghayt\\downloads\\airportmanagement\\am.infrastructure\\migrations\\20250304100149_cle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E88FBE6-62B0-4607-A88D-D0DAA69F6369}|AM.InfraStructure\\AM.InfraStructure.csproj|solutionrelative:am.infrastructure\\migrations\\20250304100149_cle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88FBE6-62B0-4607-A88D-D0DAA69F6369}|AM.InfraStructure\\AM.InfraStructure.csproj|c:\\users\\ghayt\\downloads\\airportmanagement\\am.infrastructure\\migrations\\20250304092120_tpt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E88FBE6-62B0-4607-A88D-D0DAA69F6369}|AM.InfraStructure\\AM.InfraStructure.csproj|solutionrelative:am.infrastructure\\migrations\\20250304092120_tpt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C18314-CA42-4AAA-A422-2483E00A02A4}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\ghayt\\downloads\\airportmanagement\\am.applicationcore\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C18314-CA42-4AAA-A422-2483E00A02A4}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88FBE6-62B0-4607-A88D-D0DAA69F6369}|AM.InfraStructure\\AM.InfraStructure.csproj|c:\\users\\ghayt\\downloads\\airportmanagement\\am.infrastructure\\migrations\\20250218102539_migrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E88FBE6-62B0-4607-A88D-D0DAA69F6369}|AM.InfraStructure\\AM.InfraStructure.csproj|solutionrelative:am.infrastructure\\migrations\\20250218102539_migrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E88FBE6-62B0-4607-A88D-D0DAA69F6369}|AM.InfraStructure\\AM.InfraStructure.csproj|c:\\users\\ghayt\\downloads\\airportmanagement\\am.infrastructure\\migrations\\20250218101215_firstmigrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E88FBE6-62B0-4607-A88D-D0DAA69F6369}|AM.InfraStructure\\AM.InfraStructure.csproj|solutionrelative:am.infrastructure\\migrations\\20250218101215_firstmigrate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C18314-CA42-4AAA-A422-2483E00A02A4}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\ghayt\\downloads\\airportmanagement\\am.applicationcore\\interfaces\\iserviceplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C18314-CA42-4AAA-A422-2483E00A02A4}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\interfaces\\iserviceplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C18314-CA42-4AAA-A422-2483E00A02A4}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\ghayt\\downloads\\airportmanagement\\am.applicationcore\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C18314-CA42-4AAA-A422-2483E00A02A4}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C18314-CA42-4AAA-A422-2483E00A02A4}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\ghayt\\downloads\\airportmanagement\\am.applicationcore\\services\\serviceplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C18314-CA42-4AAA-A422-2483E00A02A4}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\services\\serviceplane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C18314-CA42-4AAA-A422-2483E00A02A4}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\ghayt\\downloads\\airportmanagement\\am.applicationcore\\services\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C18314-CA42-4AAA-A422-2483E00A02A4}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\services\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44B98BE4-AD27-4257-997E-4B012375F127}|AM.UI.Console\\AM.UI.Console.csproj|c:\\users\\ghayt\\downloads\\airportmanagement\\am.ui.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44B98BE4-AD27-4257-997E-4B012375F127}|AM.UI.Console\\AM.UI.Console.csproj|solutionrelative:am.ui.console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4C18314-CA42-4AAA-A422-2483E00A02A4}|AM.ApplicationCore\\AM.ApplicationCore.csproj|c:\\users\\ghayt\\downloads\\airportmanagement\\am.applicationcore\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4C18314-CA42-4AAA-A422-2483E00A02A4}|AM.ApplicationCore\\AM.ApplicationCore.csproj|solutionrelative:am.applicationcore\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,169 +210,242 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Flight.cs",
-              "DocumentMoniker": "C:\\Users\\BAZINFO\\Esprit\\DotNet\\AirportManagement\\AM.ApplicationCore\\Domain\\Flight.cs",
-              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\Flight.cs",
-              "ToolTip": "C:\\Users\\BAZINFO\\Esprit\\DotNet\\AirportManagement\\AM.ApplicationCore\\Domain\\Flight.cs",
-              "RelativeToolTip": "AM.ApplicationCore\\Domain\\Flight.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAADwvyAAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-25T19:47:48.958Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Service.cs",
-              "DocumentMoniker": "C:\\Users\\BAZINFO\\Esprit\\DotNet\\AirportManagement\\AM.ApplicationCore\\Services\\Service.cs",
-              "RelativeDocumentMoniker": "AM.ApplicationCore\\Services\\Service.cs",
-              "ToolTip": "C:\\Users\\BAZINFO\\Esprit\\DotNet\\AirportManagement\\AM.ApplicationCore\\Services\\Service.cs",
-              "RelativeToolTip": "AM.ApplicationCore\\Services\\Service.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T08:58:05.929Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ServicePlane.cs",
-              "DocumentMoniker": "C:\\Users\\BAZINFO\\Esprit\\DotNet\\AirportManagement\\AM.ApplicationCore\\Services\\ServicePlane.cs",
-              "RelativeDocumentMoniker": "AM.ApplicationCore\\Services\\ServicePlane.cs",
-              "ToolTip": "C:\\Users\\BAZINFO\\Esprit\\DotNet\\AirportManagement\\AM.ApplicationCore\\Services\\ServicePlane.cs",
-              "RelativeToolTip": "AM.ApplicationCore\\Services\\ServicePlane.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T09:14:46.437Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PassengerExtension.cs",
-              "DocumentMoniker": "C:\\Users\\BAZINFO\\Esprit\\DotNet\\AirportManagement\\AM.ApplicationCore\\Services\\PassengerExtension.cs",
-              "RelativeDocumentMoniker": "AM.ApplicationCore\\Services\\PassengerExtension.cs",
-              "ToolTip": "C:\\Users\\BAZINFO\\Esprit\\DotNet\\AirportManagement\\AM.ApplicationCore\\Services\\PassengerExtension.cs",
-              "RelativeToolTip": "AM.ApplicationCore\\Services\\PassengerExtension.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T08:31:52.238Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "FlightMethods.cs",
-              "DocumentMoniker": "C:\\Users\\BAZINFO\\Esprit\\DotNet\\AirportManagement\\AM.ApplicationCore\\Services\\FlightMethods.cs",
-              "RelativeDocumentMoniker": "AM.ApplicationCore\\Services\\FlightMethods.cs",
-              "ToolTip": "C:\\Users\\BAZINFO\\Esprit\\DotNet\\AirportManagement\\AM.ApplicationCore\\Services\\FlightMethods.cs",
-              "RelativeToolTip": "AM.ApplicationCore\\Services\\FlightMethods.cs",
-              "ViewState": "AgIAAMoAAAAAAAAAAAAuwNQAAAA9AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T08:31:53.868Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IServicePlane.cs",
-              "DocumentMoniker": "C:\\Users\\BAZINFO\\Esprit\\DotNet\\AirportManagement\\AM.ApplicationCore\\Interfaces\\IServicePlane.cs",
-              "RelativeDocumentMoniker": "AM.ApplicationCore\\Interfaces\\IServicePlane.cs",
-              "ToolTip": "C:\\Users\\BAZINFO\\Esprit\\DotNet\\AirportManagement\\AM.ApplicationCore\\Interfaces\\IServicePlane.cs",
-              "RelativeToolTip": "AM.ApplicationCore\\Interfaces\\IServicePlane.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T09:15:02.942Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IFlightMethods.cs",
-              "DocumentMoniker": "C:\\Users\\BAZINFO\\Esprit\\DotNet\\AirportManagement\\AM.ApplicationCore\\Interfaces\\IFlightMethods.cs",
-              "RelativeDocumentMoniker": "AM.ApplicationCore\\Interfaces\\IFlightMethods.cs",
-              "ToolTip": "C:\\Users\\BAZINFO\\Esprit\\DotNet\\AirportManagement\\AM.ApplicationCore\\Interfaces\\IFlightMethods.cs",
-              "RelativeToolTip": "AM.ApplicationCore\\Interfaces\\IFlightMethods.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAA7wCEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T09:03:56.116Z",
+              "DocumentIndex": 5,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.UI.Web\\Views\\Plane\\Delete.cshtml",
+              "RelativeDocumentMoniker": "AM.UI.Web\\Views\\Plane\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.UI.Web\\Views\\Plane\\Delete.cshtml",
+              "RelativeToolTip": "AM.UI.Web\\Views\\Plane\\Delete.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T13:42:33.194Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\BAZINFO\\Esprit\\DotNet\\AirportManagement\\AM.ApplicationCore\\Interfaces\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "AM.ApplicationCore\\Interfaces\\IGenericRepository.cs",
-              "ToolTip": "C:\\Users\\BAZINFO\\Esprit\\DotNet\\AirportManagement\\AM.ApplicationCore\\Interfaces\\IGenericRepository.cs",
-              "RelativeToolTip": "AM.ApplicationCore\\Interfaces\\IGenericRepository.cs",
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.UI.Web\\Views\\Plane\\Details.cshtml",
+              "RelativeDocumentMoniker": "AM.UI.Web\\Views\\Plane\\Details.cshtml",
+              "ToolTip": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.UI.Web\\Views\\Plane\\Details.cshtml",
+              "RelativeToolTip": "AM.UI.Web\\Views\\Plane\\Details.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T13:42:12.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.UI.Web\\Views\\Plane\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AM.UI.Web\\Views\\Plane\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.UI.Web\\Views\\Plane\\Edit.cshtml",
+              "RelativeToolTip": "AM.UI.Web\\Views\\Plane\\Edit.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T08:59:25.888Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T13:42:11.623Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "PlaneController.cs",
-              "DocumentMoniker": "C:\\Users\\BAZINFO\\Esprit\\DotNet\\AirportManagement\\AM.UI.Web\\Controllers\\PlaneController.cs",
-              "RelativeDocumentMoniker": "AM.UI.Web\\Controllers\\PlaneController.cs",
-              "ToolTip": "C:\\Users\\BAZINFO\\Esprit\\DotNet\\AirportManagement\\AM.UI.Web\\Controllers\\PlaneController.cs",
-              "RelativeToolTip": "AM.UI.Web\\Controllers\\PlaneController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T10:33:30.496Z",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.UI.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AM.UI.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.UI.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AM.UI.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T13:41:57.225Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\BAZINFO\\Esprit\\DotNet\\AirportManagement\\AM.UI.Console\\Program.cs",
-              "RelativeDocumentMoniker": "AM.UI.Console\\Program.cs",
-              "ToolTip": "C:\\Users\\BAZINFO\\Esprit\\DotNet\\AirportManagement\\AM.UI.Console\\Program.cs",
-              "RelativeToolTip": "AM.UI.Console\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T08:33:30.214Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Plane.cs",
-              "DocumentMoniker": "C:\\Users\\BAZINFO\\Esprit\\DotNet\\AirportManagement\\AM.ApplicationCore\\Domain\\Plane.cs",
-              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\Plane.cs",
-              "ToolTip": "C:\\Users\\BAZINFO\\Esprit\\DotNet\\AirportManagement\\AM.ApplicationCore\\Domain\\Plane.cs",
-              "RelativeToolTip": "AM.ApplicationCore\\Domain\\Plane.cs",
+              "DocumentIndex": 10,
+              "Title": "_FlightDetails.cshtml",
+              "DocumentMoniker": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.UI.Web\\Views\\Flight\\_FlightDetails.cshtml",
+              "RelativeDocumentMoniker": "AM.UI.Web\\Views\\Flight\\_FlightDetails.cshtml",
+              "ToolTip": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.UI.Web\\Views\\Flight\\_FlightDetails.cshtml",
+              "RelativeToolTip": "AM.UI.Web\\Views\\Flight\\_FlightDetails.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T09:24:18.8Z",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-08T13:18:54.071Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "UnitOfWork.cs",
-              "DocumentMoniker": "C:\\Users\\BAZINFO\\Esprit\\DotNet\\AirportManagement\\AM.InfraStructure\\UnitOfWork.cs",
-              "RelativeDocumentMoniker": "AM.InfraStructure\\UnitOfWork.cs",
-              "ToolTip": "C:\\Users\\BAZINFO\\Esprit\\DotNet\\AirportManagement\\AM.InfraStructure\\UnitOfWork.cs",
-              "RelativeToolTip": "AM.InfraStructure\\UnitOfWork.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAlwBkAAAATAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.UI.Web\\Views\\Flight\\Index.cshtml",
+              "RelativeDocumentMoniker": "AM.UI.Web\\Views\\Flight\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.UI.Web\\Views\\Flight\\Index.cshtml",
+              "RelativeToolTip": "AM.UI.Web\\Views\\Flight\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T10:20:56.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FlightController.cs",
+              "DocumentMoniker": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.UI.Web\\Controllers\\FlightController.cs",
+              "RelativeDocumentMoniker": "AM.UI.Web\\Controllers\\FlightController.cs",
+              "ToolTip": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.UI.Web\\Controllers\\FlightController.cs",
+              "RelativeToolTip": "AM.UI.Web\\Controllers\\FlightController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T08:59:39.128Z"
+              "WhenOpened": "2025-05-05T10:04:28.506Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.UI.Web\\Views\\Plane\\Create.cshtml",
+              "RelativeDocumentMoniker": "AM.UI.Web\\Views\\Plane\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.UI.Web\\Views\\Plane\\Create.cshtml",
+              "RelativeToolTip": "AM.UI.Web\\Views\\Plane\\Create.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAIwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T09:30:16.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Flight.cs",
+              "DocumentMoniker": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.ApplicationCore\\Domain\\Flight.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\Flight.cs",
+              "ToolTip": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.ApplicationCore\\Domain\\Flight.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Domain\\Flight.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAuwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T19:47:48.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Plane.cs",
+              "DocumentMoniker": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.ApplicationCore\\Domain\\Plane.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\Plane.cs",
+              "ToolTip": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.ApplicationCore\\Domain\\Plane.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Domain\\Plane.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAxwBQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T09:24:18.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IFlightMethods.cs",
+              "DocumentMoniker": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.ApplicationCore\\Interfaces\\IFlightMethods.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Interfaces\\IFlightMethods.cs",
+              "ToolTip": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.ApplicationCore\\Interfaces\\IFlightMethods.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Interfaces\\IFlightMethods.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T09:03:56.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PlaneConfigration.cs",
+              "DocumentMoniker": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.InfraStructure\\Configuration\\PlaneConfigration.cs",
+              "RelativeDocumentMoniker": "AM.InfraStructure\\Configuration\\PlaneConfigration.cs",
+              "ToolTip": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.InfraStructure\\Configuration\\PlaneConfigration.cs",
+              "RelativeToolTip": "AM.InfraStructure\\Configuration\\PlaneConfigration.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T07:47:45.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.UI.Web\\Views\\Flight\\Create.cshtml",
+              "RelativeDocumentMoniker": "AM.UI.Web\\Views\\Flight\\Create.cshtml",
+              "ToolTip": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.UI.Web\\Views\\Flight\\Create.cshtml",
+              "RelativeToolTip": "AM.UI.Web\\Views\\Flight\\Create.cshtml",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAAAAwAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T10:22:26.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PlaneController.cs",
+              "DocumentMoniker": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.UI.Web\\Controllers\\PlaneController.cs",
+              "RelativeDocumentMoniker": "AM.UI.Web\\Controllers\\PlaneController.cs",
+              "ToolTip": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.UI.Web\\Controllers\\PlaneController.cs",
+              "RelativeToolTip": "AM.UI.Web\\Controllers\\PlaneController.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwC0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T10:33:30.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.UI.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AM.UI.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.UI.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AM.UI.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T08:41:41.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.UI.Web\\Program.cs",
+              "RelativeDocumentMoniker": "AM.UI.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.UI.Web\\Program.cs",
+              "RelativeToolTip": "AM.UI.Web\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T08:30:53.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.UI.Web\\Views\\Plane\\Index.cshtml",
+              "RelativeDocumentMoniker": "AM.UI.Web\\Views\\Plane\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.UI.Web\\Views\\Plane\\Index.cshtml",
+              "RelativeToolTip": "AM.UI.Web\\Views\\Plane\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-24T10:48:35.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.UI.Web\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "AM.UI.Web\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.UI.Web\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "AM.UI.Web\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T10:16:57.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\BAZINFO\\Esprit\\DotNet\\AirportManagement\\AM.UI.Web\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.UI.Web\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "AM.UI.Web\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\BAZINFO\\Esprit\\DotNet\\AirportManagement\\AM.UI.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.UI.Web\\Controllers\\HomeController.cs",
               "RelativeToolTip": "AM.UI.Web\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -252,23 +453,132 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "ErrorViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\BAZINFO\\Esprit\\DotNet\\AirportManagement\\AM.UI.Web\\Models\\ErrorViewModel.cs",
-              "RelativeDocumentMoniker": "AM.UI.Web\\Models\\ErrorViewModel.cs",
-              "ToolTip": "C:\\Users\\BAZINFO\\Esprit\\DotNet\\AirportManagement\\AM.UI.Web\\Models\\ErrorViewModel.cs",
-              "RelativeToolTip": "AM.UI.Web\\Models\\ErrorViewModel.cs",
+              "DocumentIndex": 20,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.UI.Web\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "AM.UI.Web\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.UI.Web\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "AM.UI.Web\\Views\\Home\\Privacy.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T10:16:57.229Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T10:10:38.133Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 22,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.UI.Web\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "AM.UI.Web\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.UI.Web\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "AM.UI.Web\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T08:41:25.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.UI.Web\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "AM.UI.Web\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.UI.Web\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "AM.UI.Web\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-05T08:41:22.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.InfraStructure\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "AM.InfraStructure\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.InfraStructure\\GenericRepository.cs",
+              "RelativeToolTip": "AM.InfraStructure\\GenericRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T08:12:45.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Passenger.cs",
+              "DocumentMoniker": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.ApplicationCore\\Domain\\Passenger.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\Passenger.cs",
+              "ToolTip": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.ApplicationCore\\Domain\\Passenger.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Domain\\Passenger.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAA/wDsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T07:45:06.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.InfraStructure\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "AM.InfraStructure\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.InfraStructure\\UnitOfWork.cs",
+              "RelativeToolTip": "AM.InfraStructure\\UnitOfWork.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAMwBkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T08:59:39.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AMContext.cs",
+              "DocumentMoniker": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.InfraStructure\\AMContext.cs",
+              "RelativeDocumentMoniker": "AM.InfraStructure\\AMContext.cs",
+              "ToolTip": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.InfraStructure\\AMContext.cs",
+              "RelativeToolTip": "AM.InfraStructure\\AMContext.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwCQAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T07:37:27.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "FlightConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.InfraStructure\\Configuration\\FlightConfiguration.cs",
+              "RelativeDocumentMoniker": "AM.InfraStructure\\Configuration\\FlightConfiguration.cs",
+              "ToolTip": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.InfraStructure\\Configuration\\FlightConfiguration.cs",
+              "RelativeToolTip": "AM.InfraStructure\\Configuration\\FlightConfiguration.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwBMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T07:47:34.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "PlaneType.cs",
+              "DocumentMoniker": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.ApplicationCore\\Domain\\PlaneType.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\PlaneType.cs",
+              "ToolTip": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.ApplicationCore\\Domain\\PlaneType.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Domain\\PlaneType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T07:57:10.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Ticket.cs",
+              "DocumentMoniker": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.ApplicationCore\\Domain\\Ticket.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\Ticket.cs",
+              "ToolTip": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.ApplicationCore\\Domain\\Ticket.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Domain\\Ticket.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T07:57:47.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
               "Title": "AM.UI.Web.csproj",
-              "DocumentMoniker": "C:\\Users\\BAZINFO\\Esprit\\DotNet\\AirportManagement\\AM.UI.Web\\AM.UI.Web.csproj",
+              "DocumentMoniker": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.UI.Web\\AM.UI.Web.csproj",
               "RelativeDocumentMoniker": "AM.UI.Web\\AM.UI.Web.csproj",
-              "ToolTip": "C:\\Users\\BAZINFO\\Esprit\\DotNet\\AirportManagement\\AM.UI.Web\\AM.UI.Web.csproj",
+              "ToolTip": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.UI.Web\\AM.UI.Web.csproj",
               "RelativeToolTip": "AM.UI.Web\\AM.UI.Web.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -276,39 +586,244 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\BAZINFO\\Esprit\\DotNet\\AirportManagement\\AM.UI.Web\\Views\\Plane\\Index.cshtml",
-              "RelativeDocumentMoniker": "AM.UI.Web\\Views\\Plane\\Index.cshtml",
-              "ToolTip": "C:\\Users\\BAZINFO\\Esprit\\DotNet\\AirportManagement\\AM.UI.Web\\Views\\Plane\\Index.cshtml",
-              "RelativeToolTip": "AM.UI.Web\\Views\\Plane\\Index.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-24T10:48:35.078Z"
+              "DocumentIndex": 30,
+              "Title": "ReservationTicket.cs",
+              "DocumentMoniker": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.ApplicationCore\\Domain\\ReservationTicket.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\ReservationTicket.cs",
+              "ToolTip": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.ApplicationCore\\Domain\\ReservationTicket.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Domain\\ReservationTicket.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T07:57:13.158Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 32,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.InfraStructure\\Class1.cs",
+              "RelativeDocumentMoniker": "AM.InfraStructure\\Class1.cs",
+              "ToolTip": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.InfraStructure\\Class1.cs",
+              "RelativeToolTip": "AM.InfraStructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T07:55:01.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.ApplicationCore\\Domain\\Staff.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\Staff.cs",
+              "ToolTip": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.ApplicationCore\\Domain\\Staff.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Domain\\Staff.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAnwBYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T07:57:15.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Traveller.cs",
+              "DocumentMoniker": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.ApplicationCore\\Domain\\Traveller.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\Traveller.cs",
+              "ToolTip": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.ApplicationCore\\Domain\\Traveller.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Domain\\Traveller.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T07:57:53.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "FullName.cs",
+              "DocumentMoniker": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.ApplicationCore\\Domain\\FullName.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\FullName.cs",
+              "ToolTip": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.ApplicationCore\\Domain\\FullName.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Domain\\FullName.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T07:56:47.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "TestData.cs",
+              "DocumentMoniker": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.ApplicationCore\\Domain\\TestData.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Domain\\TestData.cs",
+              "ToolTip": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.ApplicationCore\\Domain\\TestData.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Domain\\TestData.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAlwCIAAADeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T07:52:11.038Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "PassengerExtension.cs",
+              "DocumentMoniker": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.ApplicationCore\\Services\\PassengerExtension.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Services\\PassengerExtension.cs",
+              "ToolTip": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.ApplicationCore\\Services\\PassengerExtension.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Services\\PassengerExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T08:31:52.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AMContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.InfraStructure\\Migrations\\AMContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "AM.InfraStructure\\Migrations\\AMContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.InfraStructure\\Migrations\\AMContextModelSnapshot.cs",
+              "RelativeToolTip": "AM.InfraStructure\\Migrations\\AMContextModelSnapshot.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCAAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T08:01:54.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20250304100149_cle.cs",
+              "DocumentMoniker": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.InfraStructure\\Migrations\\20250304100149_cle.cs",
+              "RelativeDocumentMoniker": "AM.InfraStructure\\Migrations\\20250304100149_cle.cs",
+              "ToolTip": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.InfraStructure\\Migrations\\20250304100149_cle.cs",
+              "RelativeToolTip": "AM.InfraStructure\\Migrations\\20250304100149_cle.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAA1wAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T08:02:06.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20250304092120_tpt.cs",
+              "DocumentMoniker": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.InfraStructure\\Migrations\\20250304092120_tpt.cs",
+              "RelativeDocumentMoniker": "AM.InfraStructure\\Migrations\\20250304092120_tpt.cs",
+              "ToolTip": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.InfraStructure\\Migrations\\20250304092120_tpt.cs",
+              "RelativeToolTip": "AM.InfraStructure\\Migrations\\20250304092120_tpt.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T08:01:57.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.ApplicationCore\\Class1.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Class1.cs",
+              "ToolTip": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.ApplicationCore\\Class1.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T08:01:30.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20250218102539_migrate.cs",
+              "DocumentMoniker": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.InfraStructure\\Migrations\\20250218102539_migrate.cs",
+              "RelativeDocumentMoniker": "AM.InfraStructure\\Migrations\\20250218102539_migrate.cs",
+              "ToolTip": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.InfraStructure\\Migrations\\20250218102539_migrate.cs",
+              "RelativeToolTip": "AM.InfraStructure\\Migrations\\20250218102539_migrate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T07:47:29.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FlightMethods.cs",
+              "DocumentMoniker": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.ApplicationCore\\Services\\FlightMethods.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Services\\FlightMethods.cs",
+              "ToolTip": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.ApplicationCore\\Services\\FlightMethods.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Services\\FlightMethods.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAM4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T08:31:53.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "20250218101215_firstmigrate.cs",
+              "DocumentMoniker": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.InfraStructure\\Migrations\\20250218101215_firstmigrate.cs",
+              "RelativeDocumentMoniker": "AM.InfraStructure\\Migrations\\20250218101215_firstmigrate.cs",
+              "ToolTip": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.InfraStructure\\Migrations\\20250218101215_firstmigrate.cs",
+              "RelativeToolTip": "AM.InfraStructure\\Migrations\\20250218101215_firstmigrate.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T07:47:25.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.ApplicationCore\\Services\\Service.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Services\\Service.cs",
+              "ToolTip": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.ApplicationCore\\Services\\Service.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Services\\Service.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T08:58:05.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ServicePlane.cs",
+              "DocumentMoniker": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.ApplicationCore\\Services\\ServicePlane.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Services\\ServicePlane.cs",
+              "ToolTip": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.ApplicationCore\\Services\\ServicePlane.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Services\\ServicePlane.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T09:14:46.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "IServicePlane.cs",
+              "DocumentMoniker": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.ApplicationCore\\Interfaces\\IServicePlane.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Interfaces\\IServicePlane.cs",
+              "ToolTip": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.ApplicationCore\\Interfaces\\IServicePlane.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Interfaces\\IServicePlane.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T09:15:02.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.ApplicationCore\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "AM.ApplicationCore\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.ApplicationCore\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "AM.ApplicationCore\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T08:59:25.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.UI.Console\\Program.cs",
+              "RelativeDocumentMoniker": "AM.UI.Console\\Program.cs",
+              "ToolTip": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.UI.Console\\Program.cs",
+              "RelativeToolTip": "AM.UI.Console\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-24T08:33:30.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
               "Title": "IService.cs",
-              "DocumentMoniker": "C:\\Users\\BAZINFO\\Esprit\\DotNet\\AirportManagement\\AM.ApplicationCore\\Interfaces\\IService.cs",
+              "DocumentMoniker": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.ApplicationCore\\Interfaces\\IService.cs",
               "RelativeDocumentMoniker": "AM.ApplicationCore\\Interfaces\\IService.cs",
-              "ToolTip": "C:\\Users\\BAZINFO\\Esprit\\DotNet\\AirportManagement\\AM.ApplicationCore\\Interfaces\\IService.cs",
+              "ToolTip": "C:\\Users\\ghayt\\Downloads\\AirportManagement\\AM.ApplicationCore\\Interfaces\\IService.cs",
               "RelativeToolTip": "AM.ApplicationCore\\Interfaces\\IService.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-24T08:58:14.995Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\BAZINFO\\Esprit\\DotNet\\AirportManagement\\AM.InfraStructure\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "AM.InfraStructure\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\BAZINFO\\Esprit\\DotNet\\AirportManagement\\AM.InfraStructure\\GenericRepository.cs",
-              "RelativeToolTip": "AM.InfraStructure\\GenericRepository.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAowDkAAAAxAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-24T08:12:45.037Z"
             }
           ]
         }

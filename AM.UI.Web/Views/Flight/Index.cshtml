@@ -1,0 +1,94 @@
+﻿@model IEnumerable<AM.ApplicationCore.Domain.Flight>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<form asp-action="Index" method="get">
+    <fieldset>
+        <legend>Recherche</legend>
+        Saisir une date de départ : <input type="date" name="dateDepart" /> 
+        <input type="submit" value="Search" />
+    </fieldset>
+</form>
+
+<form asp-action="Sort" method="post">
+    <fieldset>
+        <input type="submit" value="Sort" />
+    </fieldset>
+</form>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Departure)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Destination)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EffectiveArrival)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EstimatedDuration)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.FlightDate)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.plane.PlaneType)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.AirlineLogo)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Departure)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Destination)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EffectiveArrival)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EstimatedDuration)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FlightDate)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.plane.PlaneType)
+            </td>
+            <td>
+                @if (!string.IsNullOrEmpty(item.AirlineLogo))
+                {
+                    <img src="@item.AirlineLogo" alt="Logo" width="100" />
+                }
+                else
+                {
+                    <span>No Logo</span>
+                }
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.FlightId }) |
+                @Html.ActionLink("Details", "Details", new { id = item.FlightId }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.FlightId }) |
+                @Html.ActionLink("Détails Avion", "Details", "Plane", new { id = item.planefk }, null)
+            </td>
+        </tr>
+        @await Html.PartialAsync("_FlightDetails", item)
+}
+    </tbody>
+</table>
